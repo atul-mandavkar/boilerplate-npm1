@@ -1,0 +1,30 @@
+{
+  "name": "boilerplate-npm",
+  "version": "1.0.1",
+  "description": "A project that does something really awesome.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atul-mandavkar/boilerplate-npm.git"
+  },
+  "keywords": [
+    "descriptive",
+    "freecodecamp",
+    "related",
+    "words"
+  ],
+  "author": "Atul Mandavkar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atul-mandavkar/boilerplate-npm/issues"
+  },
+  "homepage": "https://github.com/atul-mandavkar/boilerplate-npm#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "npe": "^1.1.4"
+  }
+}
